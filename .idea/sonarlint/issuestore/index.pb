@@ -1,0 +1,5 @@
+
+d
+4src/main/java/jobapplicantlogger/LoggingService.java,a\b\aba67571c3b09fd0d77fe8c98643d1fbdcb58db9
+~
+Nsrc/main/java/jobapplicantsoftwaredevelopment/SoftwaredevelopmentConsumer.java,c\c\ccf85ce3a92b780d6204456e54aa14e1034eab01
